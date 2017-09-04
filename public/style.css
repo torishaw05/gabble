@@ -1,0 +1,68 @@
+img {
+  height: 45%;
+  width: 50%;
+  margin: 0%;
+  padding: 0%;
+}
+form {
+  padding: 0px;
+  margin-top: 0px;
+  /*margin-bottom: 50px;*/
+  }
+
+  input {
+    height: 40px;
+    width: 200px;
+    padding: 0px;
+    margin: 5px;
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+  font-family: serif;
+  }
+  body {
+    background-color: black;
+    color: white;
+  }
+button {
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
+  margin: 8px;
+  font-size: 20px;
+  font-family: serif;
+  font-weight: bold;
+  background-color: blue;
+  color: white;
+  border: 3px solid white;
+}
+button:hover {
+  background-color: black;
+}
+button:active {
+  background-color: white;
+  color: blue;
+}
+a {
+  border: 3px solid white;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  font-family: serif;
+  font-size: 20px;
+text-decoration: none;
+padding: 10px;
+border-radius: 5px;
+}
+/*.header img {
+  float: left;
+  width: 100px;
+  height: 200px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}*/
